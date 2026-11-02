@@ -1,0 +1,41 @@
+description,amount,category,domain_cleaned_description,predicted_category
+UPI-CHAAYOS-83921,180,Food,chaayos,Food
+PHONEPE-CAFE-COFFEE-DAY-72819,450,Food,cafe coffee day,Food
+POS-SAGAR-RATNA-91827,900,Food,sagar ratna,Food
+GPAY-KRUSTY-BURGER-83921,600,Food,krusty burger,Food
+UPI-VISHAL-MEGA-MART-72819,2100,Groceries,vishal mega mart,Food
+POS-SAHKARI-BHANDAR-91827,1300,Groceries,sahkari bhandar,Food
+PHONEPE-RATNADEEP-SUPERMARKET-83921,1800,Groceries,ratnadeep supermarket,Groceries
+UPI-FOODHALL-72819,2500,Groceries,foodhall,Food
+UPI-YULU-83921,180,Transport,yulu,Food
+PHONEPE-BLUSMART-72819,550,Transport,blusmart,Food
+POS-RED-BUS-91827,1200,Transport,red bus,Food
+GPAY-ELECTRIC-RICKSHAW-83921,120,Transport,electric rickshaw,Transport
+UPI-JIO-BP-83921,2800,Fuel,jio bp,Bills
+POS-HINDUSTAN-PETROLEUM-72819,3500,Fuel,hindustan petroleum,Fuel
+PHONEPE-RELIANCE-PETROL-91827,2400,Fuel,reliance petrol,Fuel
+UPI-CNG-STATION-83921,900,Fuel,cng station,Fuel
+UPI-BAJAJ-MALL-83921,4500,Shopping,bajaj mall,Food
+PHONEPE-CLARKS-72819,3200,Shopping,clarks,Food
+POS-SKECHERS-91827,6000,Shopping,skechers,Food
+GPAY-LEVIS-83921,2800,Shopping,levis,Food
+UPI-ZEE5-83921,599,Entertainment,zee5,Food
+PHONEPE-MX-PLAYER-72819,199,Entertainment,mx player,Food
+POS-CARNIVAL-CINEMA-91827,750,Entertainment,carnival cinema,Entertainment
+GPAY-APPLE-MUSIC-83921,99,Entertainment,apple music,Food
+UPI-GAS-BILL-83921,1200,Bills,gas bill,Bills
+PHONEPE-MUNICIPAL-TAX-72819,3500,Bills,municipal tax,Food
+POS-WATER-BILL-91827,800,Bills,water bill,Bills
+GPAY-POSTPAID-BILL-83921,499,Bills,postpaid bill,Bills
+UPI-CULT-FIT-83921,1800,Healthcare,cult fit,Food
+PHONEPE-HEALTHIANS-72819,950,Healthcare,healthians,Food
+POS-THYROCARE-91827,1500,Healthcare,thyrocare,Food
+GPAY-EYE-CARE-83921,2500,Healthcare,eye care,Food
+UPI-EDX-83921,1200,Education,edx,Food
+PHONEPE-GREAT-LEARNING-72819,5000,Education,great learning,Food
+POS-LINKEDIN-LEARNING-91827,1800,Education,linkedin learning,Food
+GPAY-TEXTBOOK-PURCHASE-83921,900,Education,textbook purchase,Food
+UPI-THOMAS-COOK-83921,8500,Travel,thomas cook,Food
+PHONEPE-YATRA-72819,4200,Travel,yatra,Food
+POS-TREEBO-HOTELS-91827,3500,Travel,treebo hotels,Travel
+GPAY-HOSTEL-BOOKING-83921,2800,Travel,hostel booking,Travel

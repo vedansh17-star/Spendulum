@@ -1,0 +1,29 @@
+description,actual_category,predicted_category,expected_source,actual_source,matched_merchant,cleaned_description,confidence,confidence_score,action,needs_user_confirmation
+UPI-CHAAYOS-458921,Food,Food,Merchant Knowledge Base,Merchant Knowledge Base,chaayos,chaayos,High,1.0,Prediction Accepted,False
+PHONEPE-HEALTHIANS-728491,Healthcare,Healthcare,Merchant Knowledge Base,Merchant Knowledge Base,healthians,healthians,High,1.0,Prediction Accepted,False
+POS-SKECHERS-918273,Shopping,Shopping,Merchant Knowledge Base,Merchant Knowledge Base,skechers,skechers,High,1.0,Prediction Accepted,False
+GPAY-YATRA-839201,Travel,Travel,Merchant Knowledge Base,Merchant Knowledge Base,yatra,yatra,High,1.0,Prediction Accepted,False
+UPI-YULU-728491,Transport,Transport,Merchant Knowledge Base,Merchant Knowledge Base,yulu,yulu,High,1.0,Prediction Accepted,False
+PHONEPE-ZEE5-918273,Entertainment,Entertainment,Merchant Knowledge Base,Merchant Knowledge Base,zee5,zee5,High,1.0,Prediction Accepted,False
+UPI-THYROCARE-839201,Healthcare,Healthcare,Merchant Knowledge Base,Merchant Knowledge Base,thyrocare,thyrocare,High,1.0,Prediction Accepted,False
+POS-RED-BUS-728491,Transport,Transport,Merchant Knowledge Base,Merchant Knowledge Base,red bus,red bus,High,1.0,Prediction Accepted,False
+GPAY-MUNICIPAL-TAX-918273,Bills,Bills,Merchant Knowledge Base,Merchant Knowledge Base,municipal tax,municipal tax,High,1.0,Prediction Accepted,False
+PHONEPE-GREAT-LEARNING-839201,Education,Education,Merchant Knowledge Base,Merchant Knowledge Base,great learning,great learning,High,1.0,Prediction Accepted,False
+UPI-SHREE-KRISHNA-DHABA-728491,Food,Food,Machine Learning Model,Machine Learning Model,,shree krishna dhaba,Low,0.0522,User Confirmation Required,True
+POS-VEG-RESTAURANT-918273,Food,Food,Machine Learning Model,Machine Learning Model,,veg restaurant,Low,0.0522,User Confirmation Required,True
+UPI-CITY-SUPERMARKET-839201,Groceries,Groceries,Machine Learning Model,Machine Learning Model,,city supermarket,High,1.1177,Prediction Accepted,False
+PHONEPE-DAILY-BAZAAR-728491,Groceries,Groceries,Machine Learning Model,Machine Learning Model,,daily bazaar,High,1.118,Prediction Accepted,False
+UPI-CITY-CAB-918273,Transport,Transport,Machine Learning Model,User Feedback,,city cab,High,1.0,Prediction Accepted,False
+POS-METRO-RIDE-839201,Transport,Transport,Machine Learning Model,Machine Learning Model,,metro ride,High,1.4285,Prediction Accepted,False
+UPI-LOCAL-PETROL-PUMP-728491,Fuel,Fuel,Machine Learning Model,Machine Learning Model,,local petrol pump,High,1.9906,Prediction Accepted,False
+PHONEPE-FUEL-STATION-918273,Fuel,Fuel,Machine Learning Model,Machine Learning Model,,fuel station,High,1.9878,Prediction Accepted,False
+UPI-CLOTHING-OUTLET-839201,Shopping,Shopping,Machine Learning Model,User Feedback,,clothing outlet,High,1.0,Prediction Accepted,False
+POS-FASHION-STORE-728491,Shopping,Education,Machine Learning Model,Machine Learning Model,,fashion store,Low,0.1212,User Confirmation Required,True
+UPI-MOVIE-TICKET-918273,Entertainment,Entertainment,Machine Learning Model,User Feedback,,movie ticket,High,1.0,Prediction Accepted,False
+PHONEPE-VIDEO-STREAMING-839201,Entertainment,Food,Machine Learning Model,Machine Learning Model,,video streaming,Low,0.0522,User Confirmation Required,True
+UPI-ELECTRICITY-PAYMENT-728491,Bills,Bills,Machine Learning Model,Machine Learning Model,,electricity,High,1.5087,Prediction Accepted,False
+POS-INTERNET-BILL-839201,Bills,Bills,Machine Learning Model,Machine Learning Model,,internet bill,High,1.3866,Prediction Accepted,False
+UPI-ONLINE-COURSE-728491,Education,Food,Machine Learning Model,Machine Learning Model,,course,Low,0.0522,User Confirmation Required,True
+PHONEPE-STUDY-MATERIAL-918273,Education,Food,Machine Learning Model,Machine Learning Model,,study material,Low,0.0522,User Confirmation Required,True
+UPI-HOTEL-RESERVATION-839201,Travel,Travel,Machine Learning Model,Machine Learning Model,,hotel reservation,High,1.1113,Prediction Accepted,False
+POS-FLIGHT-TICKET-728491,Travel,Food,Machine Learning Model,Machine Learning Model,,flight ticket,Low,0.0522,User Confirmation Required,True

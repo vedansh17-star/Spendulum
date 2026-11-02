@@ -1,0 +1,30 @@
+description,amount,category,expected_source
+UPI-CHAAYOS-458921,250,Food,Merchant Knowledge Base
+PHONEPE-HEALTHIANS-728491,1200,Healthcare,Merchant Knowledge Base
+POS-SKECHERS-918273,4500,Shopping,Merchant Knowledge Base
+GPAY-YATRA-839201,6000,Travel,Merchant Knowledge Base
+UPI-YULU-728491,180,Transport,Merchant Knowledge Base
+PHONEPE-ZEE5-918273,599,Entertainment,Merchant Knowledge Base
+UPI-THYROCARE-839201,1500,Healthcare,Merchant Knowledge Base
+POS-RED-BUS-728491,950,Transport,Merchant Knowledge Base
+GPAY-MUNICIPAL-TAX-918273,2500,Bills,Merchant Knowledge Base
+PHONEPE-GREAT-LEARNING-839201,5000,Education,Merchant Knowledge Base
+
+UPI-SHREE-KRISHNA-DHABA-728491,450,Food,Machine Learning Model
+POS-VEG-RESTAURANT-918273,800,Food,Machine Learning Model
+UPI-CITY-SUPERMARKET-839201,2100,Groceries,Machine Learning Model
+PHONEPE-DAILY-BAZAAR-728491,1600,Groceries,Machine Learning Model
+UPI-CITY-CAB-918273,350,Transport,Machine Learning Model
+POS-METRO-RIDE-839201,120,Transport,Machine Learning Model
+UPI-LOCAL-PETROL-PUMP-728491,2200,Fuel,Machine Learning Model
+PHONEPE-FUEL-STATION-918273,3000,Fuel,Machine Learning Model
+UPI-CLOTHING-OUTLET-839201,3500,Shopping,Machine Learning Model
+POS-FASHION-STORE-728491,4200,Shopping,Machine Learning Model
+UPI-MOVIE-TICKET-918273,600,Entertainment,Machine Learning Model
+PHONEPE-VIDEO-STREAMING-839201,299,Entertainment,Machine Learning Model
+UPI-ELECTRICITY-PAYMENT-728491,1800,Bills,Machine Learning Model
+POS-INTERNET-BILL-839201,999,Bills,Machine Learning Model
+UPI-ONLINE-COURSE-728491,2500,Education,Machine Learning Model
+PHONEPE-STUDY-MATERIAL-918273,1200,Education,Machine Learning Model
+UPI-HOTEL-RESERVATION-839201,4500,Travel,Machine Learning Model
+POS-FLIGHT-TICKET-728491,6500,Travel,Machine Learning Model

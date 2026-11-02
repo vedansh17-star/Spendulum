@@ -1,0 +1,41 @@
+description,amount,category,cleaned_description,predicted_category
+UPI-CHAAYOS-83921,180,Food,upi chaayos,Shopping
+PHONEPE-CAFE-COFFEE-DAY-72819,450,Food,phonepe cafe coffee day,Shopping
+POS-SAGAR-RATNA-91827,900,Food,pos sagar ratna,Shopping
+GPAY-KRUSTY-BURGER-83921,600,Food,gpay krusty burger,Food
+UPI-VISHAL-MEGA-MART-72819,2100,Groceries,upi vishal mega mart,Shopping
+POS-SAHKARI-BHANDAR-91827,1300,Groceries,pos sahkari bhandar,Shopping
+PHONEPE-RATNADEEP-SUPERMARKET-83921,1800,Groceries,phonepe ratnadeep supermarket,Groceries
+UPI-FOODHALL-72819,2500,Groceries,upi foodhall,Shopping
+UPI-YULU-83921,180,Transport,upi yulu,Shopping
+PHONEPE-BLUSMART-72819,550,Transport,phonepe blusmart,Shopping
+POS-RED-BUS-91827,1200,Transport,pos red bus,Shopping
+GPAY-ELECTRIC-RICKSHAW-83921,120,Transport,gpay electric rickshaw,Transport
+UPI-JIO-BP-83921,2800,Fuel,upi jio bp,Bills
+POS-HINDUSTAN-PETROLEUM-72819,3500,Fuel,pos hindustan petroleum,Fuel
+PHONEPE-RELIANCE-PETROL-91827,2400,Fuel,phonepe reliance petrol,Fuel
+UPI-CNG-STATION-83921,900,Fuel,upi cng station,Fuel
+UPI-BAJAJ-MALL-83921,4500,Shopping,upi bajaj mall,Shopping
+PHONEPE-CLARKS-72819,3200,Shopping,phonepe clarks,Shopping
+POS-SKECHERS-91827,6000,Shopping,pos skechers,Shopping
+GPAY-LEVIS-83921,2800,Shopping,gpay levis,Shopping
+UPI-ZEE5-83921,599,Entertainment,upi zee5,Shopping
+PHONEPE-MX-PLAYER-72819,199,Entertainment,phonepe mx player,Shopping
+POS-CARNIVAL-CINEMA-91827,750,Entertainment,pos carnival cinema,Entertainment
+GPAY-APPLE-MUSIC-83921,99,Entertainment,gpay apple music,Shopping
+UPI-GAS-BILL-83921,1200,Bills,upi gas bill,Bills
+PHONEPE-MUNICIPAL-TAX-72819,3500,Bills,phonepe municipal tax,Shopping
+POS-WATER-BILL-91827,800,Bills,pos water bill,Bills
+GPAY-POSTPAID-BILL-83921,499,Bills,gpay postpaid bill,Bills
+UPI-CULT-FIT-83921,1800,Healthcare,upi cult fit,Shopping
+PHONEPE-HEALTHIANS-72819,950,Healthcare,phonepe healthians,Shopping
+POS-THYROCARE-91827,1500,Healthcare,pos thyrocare,Shopping
+GPAY-EYE-CARE-83921,2500,Healthcare,gpay eye care,Shopping
+UPI-EDX-83921,1200,Education,upi edx,Shopping
+PHONEPE-GREAT-LEARNING-72819,5000,Education,phonepe great learning,Shopping
+POS-LINKEDIN-LEARNING-91827,1800,Education,pos linkedin learning,Shopping
+GPAY-TEXTBOOK-PURCHASE-83921,900,Education,gpay textbook purchase,Shopping
+UPI-THOMAS-COOK-83921,8500,Travel,upi thomas cook,Shopping
+PHONEPE-YATRA-72819,4200,Travel,phonepe yatra,Shopping
+POS-TREEBO-HOTELS-91827,3500,Travel,pos treebo hotels,Travel
+GPAY-HOSTEL-BOOKING-83921,2800,Travel,gpay hostel booking,Travel

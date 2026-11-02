@@ -1,0 +1,57 @@
+description,amount,category,cleaned_description
+SWIGGY ORDER 1234,450,Food,swiggy order
+SWIGGY FOOD ORDER,320,Food,swiggy food order
+ZOMATO ORDER 8392,620,Food,zomato order
+DOMINOS PIZZA,850,Food,dominos pizza
+MCDONALDS RESTAURANT,450,Food,mcdonalds restaurant
+KFC ONLINE ORDER,720,Food,kfc online order
+PIZZA HUT,680,Food,pizza hut
+STARBUCKS COFFEE,390,Food,starbucks coffee
+LOCAL RESTAURANT,550,Food,local restaurant
+FOOD COURT PAYMENT,300,Food,food court payment
+DMART NAGPUR,1850,Groceries,dmart nagpur
+DMART SUPERMARKET,2300,Groceries,dmart supermarket
+BIGBASKET ORDER,920,Groceries,bigbasket order
+ZEPTO GROCERY,780,Groceries,zepto grocery
+BLINKIT ORDER,650,Groceries,blinkit order
+RELIANCE SMART,1700,Groceries,reliance smart
+VEGETABLE MARKET,500,Groceries,vegetable market
+GROCERY STORE,820,Groceries,grocery store
+MILK AND DAIRY STORE,350,Groceries,milk and dairy store
+SUPERMARKET PURCHASE,1250,Groceries,supermarket purchase
+UBER INDIA,320,Transport,uber india
+UBER TRIP,280,Transport,uber trip
+OLA CAB RIDE,350,Transport,ola cab ride
+OLA CABS,420,Transport,ola cabs
+NAGPUR METRO,50,Transport,nagpur metro
+METRO CARD RECHARGE,500,Transport,metro card recharge
+AUTO RICKSHAW,150,Transport,auto rickshaw
+BUS TICKET,80,Transport,bus ticket
+RAPIDO BIKE,190,Transport,rapido bike
+CAB PAYMENT,300,Transport,cab payment
+HPCL PETROL PUMP,2000,Fuel,hpcl petrol pump
+INDIAN OIL PETROL,1500,Fuel,indian oil petrol
+BHARAT PETROLEUM,1800,Fuel,bharat petroleum
+PETROL PUMP,1200,Fuel,petrol pump
+HP PETROL,2200,Fuel,hp petrol
+FUEL STATION,1600,Fuel,fuel station
+INDIAN OIL FUEL,2000,Fuel,indian oil fuel
+PETROL PAYMENT,1800,Fuel,petrol payment
+NETFLIX.COM,649,Entertainment,netflix com
+SPOTIFY PREMIUM,119,Entertainment,spotify premium
+PRIME VIDEO,299,Entertainment,prime video
+BOOKMYSHOW MOVIE,450,Entertainment,bookmyshow movie
+PVR CINEMA,650,Entertainment,pvr cinema
+MOVIE TICKET,400,Entertainment,movie ticket
+YOUTUBE PREMIUM,149,Entertainment,youtube premium
+STEAM GAMES,1200,Entertainment,steam games
+AMAZON INDIA,1299,Shopping,amazon india
+FLIPKART ORDER,1800,Shopping,flipkart order
+MYNTRA PURCHASE,2200,Shopping,myntra purchase
+AJIO ONLINE,1600,Shopping,ajio online
+CLOTHING STORE,2500,Shopping,clothing store
+SHOE STORE,3000,Shopping,shoe store
+ELECTRONICS STORE,4500,Shopping,electronics store
+SHOPPING MALL,3500,Shopping,shopping mall
+CLOTHES PURCHASE,1800,Shopping,clothes purchase
+ONLINE SHOPPING,2100,Shopping,online shopping

@@ -1,0 +1,25 @@
+description,cleaned_description,predicted_category,corrected_category
+UPI-CITY-CAB-918273,city cab,Food,Transport
+UPI-CLOTHING-OUTLET-839201,clothing outlet,Food,Shopping
+UPI-MOVIE-TICKET-918273,movie ticket,Food,Entertainment
+UPI-CITY-CAB-918273,city cab,Food,Transport
+UPI-CLOTHING-OUTLET-839201,clothing outlet,Food,Shopping
+UPI-MOVIE-TICKET-918273,movie ticket,Food,Entertainment
+STARBUCKS COFFEE,starbucks coffee,Food,Food
+LOCAL RESTAURANT,local restaurant,Food,Food
+FOOD COURT PAYMENT,food court,Food,Food
+VEGETABLE MARKET,vegetable market,Food,Groceries
+GROCERY STORE,grocery store,Education,Groceries
+MILK AND DAIRY STORE,milk and dairy store,Education,Groceries
+METRO CARD RECHARGE,metro card recharge,Bills,Travel
+BUS TICKET,bus ticket,Food,Transport
+CAB PAYMENT,cab,Food,Travel
+CLOTHING STORE,clothing store,Education,Shopping
+SHOE STORE,shoe store,Education,Shopping
+ELECTRONICS STORE,electronics store,Education,Shopping
+SHOPPING MALL,shopping mall,Food,Shopping
+CLOTHES PURCHASE,clothes purchase,Food,Shopping
+ONLINE SHOPPING,shopping,Food,Shopping
+UPI-STARBUCKS-121808,starbucks,Food,Food
+DIAGNOSTIC LAB ORDER 636368,diagnostic lab,Food,Healthcare
+RELIANCE TRENDS TRANSACTION,reliance trends,Groceries,Shopping
