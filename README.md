@@ -8,7 +8,7 @@ AI-powered personal finance and expense management application for everyday Indi
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/vedansh17-star/Spendulum.git
 cd Spendulum
 ```
 
